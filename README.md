@@ -13,3 +13,12 @@
 # Create hotfix branch.
 # Assign HTML Structure Task to hotfix.
 
+##########################################################################
+#                             HOTFIX BRANCH TASKS                        #
+##########################################################################
+
+# Switch to hotfix branch.
+# Complete HTML Structure in index.html.
+# Create integration Branch.
+# Assign HTML and CSS Tasks to integration branch.
+

@@ -30,3 +30,19 @@
 # Create feature-two Branch.
 # Assign HTML & CSS Tasks to feature-one & feature-two branch.
 
+##########################################################################
+#                      Feature One Branch Tasks                          #
+##########################################################################
+
+# Switch to feature-one branch.
+# Add <h1></h1> and <p></p> in index.html.
+# Add CSS <style></style> for <h1> and <p>.
+
+##########################################################################
+#                      Feature Two Branch Tasks                          #
+##########################################################################
+
+# Switch to feature-two branch.
+# Add <h1></h1> and <p></p> in index.html.
+# Add CSS <style></style> for <h1> and <p>.
+

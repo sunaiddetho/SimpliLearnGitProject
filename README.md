@@ -22,3 +22,11 @@
 # Create integration Branch.
 # Assign HTML and CSS Tasks to integration branch.
 
+##########################################################################
+#                      Integration Branch Tasks                          #
+##########################################################################
+
+# Create feature-one Branch.
+# Create feature-two Branch.
+# Assign HTML & CSS Tasks to feature-one & feature-two branch.
+
